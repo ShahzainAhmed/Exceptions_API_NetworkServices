@@ -1,1 +1,4 @@
-# Exceptions_API_NetworkServices
+# GetX State Management:
+- Exception Handling
+- Handle API Response
+- Network Services API
